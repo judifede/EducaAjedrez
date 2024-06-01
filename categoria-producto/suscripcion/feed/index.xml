@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Suscripción &#8211; EducaAjedrez</title>
+	<atom:link href="https://judifede.github.io/EducaAjedrez/categoria-producto/suscripcion/feed/" rel="self" type="application/rss+xml" />
+	<link>https://judifede.github.io/EducaAjedrez</link>
+	<description></description>
+	<lastBuildDate>Tue, 14 May 2024 09:17:47 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<item>
+		<title>Suscripción</title>
+		<link></link>
+		
+		<dc:creator><![CDATA[EducaAjedrez]]></dc:creator>
+		<pubDate>Tue, 14 May 2024 09:17:47 +0000</pubDate>
+				<guid isPermaLink="false"></guid>
+
+					<description><![CDATA[Orden predeterminado Ordenar por popularidad Ordenar por los últimos Ordenar por precio: bajo a alto Ordenar por precio: alto a bajo Iniciación 20,00&#160;&#8364; Añadir al carrito Intermedio 45,00&#160;&#8364; Añadir al carrito Rumbo a Fide 1.000,00&#160;&#8364; Añadir al carrito]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce columns-4 "><div class="woocommerce-notices-wrapper"></div><form class="woocommerce-ordering" method="get">
+	<select name="orderby" class="orderby" aria-label="Pedido de la tienda">
+					<option value="menu_order"  selected='selected'>Orden predeterminado</option>
+					<option value="popularity" >Ordenar por popularidad</option>
+					<option value="date" >Ordenar por los últimos</option>
+					<option value="price" >Ordenar por precio: bajo a alto</option>
+					<option value="price-desc" >Ordenar por precio: alto a bajo</option>
+			</select>
+	<input type="hidden" name="paged" value="1" />
+	<input type="hidden" name="simply_static_page" value="6702" /></form>
+<ul class="products columns-4">
+<li class="product type-product post-1291 status-publish first instock product_cat-suscripcion has-post-thumbnail virtual purchasable product-type-simple">
+	<a href="https://judifede.github.io/EducaAjedrez/producto/iniciacion/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://judifede.github.io/EducaAjedrez/wp-content/uploads/2024/04/iniciacion-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="iniciacion" decoding="async" srcset="https://judifede.github.io/EducaAjedrez/wp-content/uploads/2024/04/iniciacion-300x300.jpg 300w, https://judifede.github.io/EducaAjedrez/wp-content/uploads/2024/04/iniciacion-100x100.jpg 100w, https://judifede.github.io/EducaAjedrez/wp-content/uploads/2024/04/iniciacion-150x150.jpg 150w, https://judifede.github.io/EducaAjedrez/wp-content/uploads/2024/04/iniciacion-250x250.jpg 250w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Iniciación</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>20,00&nbsp;<span class="woocommerce-Price-currencySymbol">&euro;</span></bdi></span></span>
+</a><a href="https://judifede.github.io/EducaAjedrez/producto/iniciacion/?add-to-cart=1291" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1291" data-product_sku="" aria-label="Añadir al carrito: &ldquo;Iniciación&rdquo;" aria-describedby="" rel="nofollow">Añadir al carrito</a></li>
+<li class="product type-product post-1297 status-publish instock product_cat-suscripcion has-post-thumbnail virtual purchasable product-type-simple">
+	<a href="https://judifede.github.io/EducaAjedrez/producto/intermedio/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://judifede.github.io/EducaAjedrez/wp-content/uploads/2024/04/chess-board-game-fireside-2489553-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="intermedio" decoding="async" srcset="https://judifede.github.io/EducaAjedrez/wp-content/uploads/2024/04/chess-board-game-fireside-2489553-300x300.jpg 300w, https://judifede.github.io/EducaAjedrez/wp-content/uploads/2024/04/chess-board-game-fireside-2489553-100x100.jpg 100w, https://judifede.github.io/EducaAjedrez/wp-content/uploads/2024/04/chess-board-game-fireside-2489553-150x150.jpg 150w, https://judifede.github.io/EducaAjedrez/wp-content/uploads/2024/04/chess-board-game-fireside-2489553-250x250.jpg 250w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Intermedio</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>45,00&nbsp;<span class="woocommerce-Price-currencySymbol">&euro;</span></bdi></span></span>
+</a><a href="https://judifede.github.io/EducaAjedrez/producto/intermedio/?add-to-cart=1297" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1297" data-product_sku="" aria-label="Añadir al carrito: &ldquo;Intermedio&rdquo;" aria-describedby="" rel="nofollow">Añadir al carrito</a></li>
+<li class="product type-product post-1298 status-publish instock product_cat-suscripcion has-post-thumbnail virtual purchasable product-type-simple">
+	<a href="https://judifede.github.io/EducaAjedrez/producto/rumbo-a-fide/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="300" height="300" src="https://judifede.github.io/EducaAjedrez/wp-content/uploads/2024/04/chess-pawn-king-1483735-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="fide" decoding="async" srcset="https://judifede.github.io/EducaAjedrez/wp-content/uploads/2024/04/chess-pawn-king-1483735-300x300.jpg 300w, https://judifede.github.io/EducaAjedrez/wp-content/uploads/2024/04/chess-pawn-king-1483735-100x100.jpg 100w, https://judifede.github.io/EducaAjedrez/wp-content/uploads/2024/04/chess-pawn-king-1483735-150x150.jpg 150w, https://judifede.github.io/EducaAjedrez/wp-content/uploads/2024/04/chess-pawn-king-1483735-250x250.jpg 250w" sizes="(max-width: 300px) 100vw, 300px" /><h2 class="woocommerce-loop-product__title">Rumbo a Fide</h2>
+	<span class="price"><span class="woocommerce-Price-amount amount"><bdi>1.000,00&nbsp;<span class="woocommerce-Price-currencySymbol">&euro;</span></bdi></span></span>
+</a><a href="https://judifede.github.io/EducaAjedrez/producto/rumbo-a-fide/?add-to-cart=1298" data-quantity="1" class="button product_type_simple add_to_cart_button ajax_add_to_cart" data-product_id="1298" data-product_sku="" aria-label="Añadir al carrito: &ldquo;Rumbo a Fide&rdquo;" aria-describedby="" rel="nofollow">Añadir al carrito</a></li>
+</ul>
+</div>]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
