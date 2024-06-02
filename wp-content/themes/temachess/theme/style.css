@@ -1295,7 +1295,7 @@ h3{
   .hfe-nav-menu__layout-horizontal {
     width: 80vw;
     position: absolute;
-    top: 18vh;
+    top: 150px;
     left: 10vw;
     z-index: 100;
   }
@@ -1305,7 +1305,7 @@ h3{
   .hfe-nav-menu__layout-horizontal {
     /* width: 100vw; */
     width: calc(100vw - (100vw - 100%));
-    top: 25vh;
+    top: 190px;
     left: 0;
     border-bottom-style: solid;
     border-bottom-color: #c4c4c4;
@@ -1403,6 +1403,8 @@ button[name="add-to-cart"].button.alt:hover,.wc-block-components-button:not(.is-
   /* text-underline-offset: 4px; */
 }
 
+
+
 .services_galeria img:not(.grid_span2 img) {
   aspect-ratio: 367/206;
   height: 100%;
@@ -1423,7 +1425,7 @@ button[name="add-to-cart"].button.alt:hover,.wc-block-components-button:not(.is-
 
 @media (max-width: 1024px) {
   .services_img_subs_cards img {
-    min-width: 200px;
+    width: 200px;
     min-height: 200px;
   }
 }
